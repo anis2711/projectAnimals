@@ -5,3 +5,4 @@ lapin
 Ours
 chat
 dog
+éléphant
