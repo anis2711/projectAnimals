@@ -1,2 +1,4 @@
 Giraf
 Lion
+tiger
+lapin
